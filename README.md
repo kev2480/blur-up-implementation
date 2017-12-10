@@ -1,7 +1,7 @@
 # blur-up-implementation
 A basic example of an image blur up technique
 
-![gif-example](https://i.imgur.com/RQGRUx1.gif)
+[example](https://i.imgur.com/RQGRUx1.gifv)
 
 ## Getting started...
 ### Server (node.js)
