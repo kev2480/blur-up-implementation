@@ -4,12 +4,12 @@ A basic example of an image blur up technique
 ![gif-example](https://i.imgur.com/RQGRUx1.gif)
 
 ## Getting started...
-### Server
+### Server (node.js)
 1. `npm install`
 2. `node .` (The node server will now create any progressive images needed in `server/static/small` by looping through any images inside `server/static`)
 3. Open a new terminal
 
-### Frontend implementation
+### Frontend implementation (vue.js)
 1. `cd frontend`
 2. `npm install`
 3. `npm run dev`
